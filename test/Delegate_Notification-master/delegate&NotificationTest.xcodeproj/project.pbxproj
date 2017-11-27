@@ -205,6 +205,9 @@
 				LastUpgradeCheck = 0500;
 				ORGANIZATIONNAME = webwerks;
 				TargetAttributes = {
+					E99418591855B1B800A4CA73 = {
+						DevelopmentTeam = TY8UX99XGQ;
+					};
 					E994187A1855B1B800A4CA73 = {
 						TestTargetID = E99418591855B1B800A4CA73;
 					};
@@ -385,10 +388,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = TY8UX99XGQ;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "delegateTest/delegate&NotificationTest-Prefix.pch";
 				INFOPLIST_FILE = "delegateTest/delegate&NotificationTest-Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.schneider-electric.MyNovaBuddy";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.schneider-electric.mymy";
 				PRODUCT_NAME = "delegate&NotificationTest";
 				WRAPPER_EXTENSION = app;
 			};
@@ -399,10 +403,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = TY8UX99XGQ;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "delegateTest/delegate&NotificationTest-Prefix.pch";
 				INFOPLIST_FILE = "delegateTest/delegate&NotificationTest-Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.schneider-electric.MyNovaBuddy";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.schneider-electric.mymy";
 				PRODUCT_NAME = "delegate&NotificationTest";
 				WRAPPER_EXTENSION = app;
 			};
