@@ -35,23 +35,23 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		E994185A1855B1B800A4CA73 /* delegate&NotificationTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "delegate&NotificationTest.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E994185A1855B1B800A4CA73 /* delegateNotificationTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = delegateNotificationTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E994185D1855B1B800A4CA73 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		E994185F1855B1B800A4CA73 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		E99418611855B1B800A4CA73 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		E99418651855B1B800A4CA73 /* delegate&NotificationTest-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "delegate&NotificationTest-Info.plist"; sourceTree = "<group>"; };
+		E99418651855B1B800A4CA73 /* delegateNotificationTest-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "delegateNotificationTest-Info.plist"; sourceTree = "<group>"; };
 		E99418671855B1B800A4CA73 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		E99418691855B1B800A4CA73 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		E994186B1855B1B800A4CA73 /* delegate&NotificationTest-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "delegate&NotificationTest-Prefix.pch"; sourceTree = "<group>"; };
+		E994186B1855B1B800A4CA73 /* delegateNotificationTest-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "delegateNotificationTest-Prefix.pch"; sourceTree = "<group>"; };
 		E994186C1855B1B800A4CA73 /* MSAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MSAppDelegate.h; sourceTree = "<group>"; };
 		E994186D1855B1B800A4CA73 /* MSAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MSAppDelegate.m; sourceTree = "<group>"; };
 		E99418701855B1B800A4CA73 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E99418721855B1B800A4CA73 /* MSViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MSViewController.h; sourceTree = "<group>"; };
 		E99418731855B1B800A4CA73 /* MSViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MSViewController.m; sourceTree = "<group>"; };
 		E99418751855B1B800A4CA73 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		E994187B1855B1B800A4CA73 /* delegate&NotificationTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "delegate&NotificationTestTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E994187B1855B1B800A4CA73 /* delegateNotificationTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = delegateNotificationTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E994187C1855B1B800A4CA73 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		E99418841855B1B800A4CA73 /* delegate&NotificationTestTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "delegate&NotificationTestTests-Info.plist"; sourceTree = "<group>"; };
+		E99418841855B1B800A4CA73 /* delegateNotificationTestTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "delegateNotificationTestTests-Info.plist"; sourceTree = "<group>"; };
 		E99418861855B1B800A4CA73 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		E99418881855B1B800A4CA73 /* delegateTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = delegateTestTests.m; sourceTree = "<group>"; };
 		E99418921855B29F00A4CA73 /* MSViewController1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MSViewController1.h; sourceTree = "<group>"; };
@@ -97,8 +97,8 @@
 		E994185B1855B1B800A4CA73 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E994185A1855B1B800A4CA73 /* delegate&NotificationTest.app */,
-				E994187B1855B1B800A4CA73 /* delegate&NotificationTestTests.xctest */,
+				E994185A1855B1B800A4CA73 /* delegateNotificationTest.app */,
+				E994187B1855B1B800A4CA73 /* delegateNotificationTestTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -131,10 +131,10 @@
 		E99418641855B1B800A4CA73 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				E99418651855B1B800A4CA73 /* delegate&NotificationTest-Info.plist */,
+				E99418651855B1B800A4CA73 /* delegateNotificationTest-Info.plist */,
 				E99418661855B1B800A4CA73 /* InfoPlist.strings */,
 				E99418691855B1B800A4CA73 /* main.m */,
-				E994186B1855B1B800A4CA73 /* delegate&NotificationTest-Prefix.pch */,
+				E994186B1855B1B800A4CA73 /* delegateNotificationTest-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -151,7 +151,7 @@
 		E99418831855B1B800A4CA73 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				E99418841855B1B800A4CA73 /* delegate&NotificationTestTests-Info.plist */,
+				E99418841855B1B800A4CA73 /* delegateNotificationTestTests-Info.plist */,
 				E99418851855B1B800A4CA73 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
@@ -160,9 +160,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E99418591855B1B800A4CA73 /* delegate&NotificationTest */ = {
+		E99418591855B1B800A4CA73 /* delegateNotificationTest */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E994188C1855B1B800A4CA73 /* Build configuration list for PBXNativeTarget "delegate&NotificationTest" */;
+			buildConfigurationList = E994188C1855B1B800A4CA73 /* Build configuration list for PBXNativeTarget "delegateNotificationTest" */;
 			buildPhases = (
 				E99418561855B1B800A4CA73 /* Sources */,
 				E99418571855B1B800A4CA73 /* Frameworks */,
@@ -172,14 +172,14 @@
 			);
 			dependencies = (
 			);
-			name = "delegate&NotificationTest";
+			name = delegateNotificationTest;
 			productName = delegateTest;
-			productReference = E994185A1855B1B800A4CA73 /* delegate&NotificationTest.app */;
+			productReference = E994185A1855B1B800A4CA73 /* delegateNotificationTest.app */;
 			productType = "com.apple.product-type.application";
 		};
-		E994187A1855B1B800A4CA73 /* delegate&NotificationTestTests */ = {
+		E994187A1855B1B800A4CA73 /* delegateNotificationTestTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E994188F1855B1B800A4CA73 /* Build configuration list for PBXNativeTarget "delegate&NotificationTestTests" */;
+			buildConfigurationList = E994188F1855B1B800A4CA73 /* Build configuration list for PBXNativeTarget "delegateNotificationTestTests" */;
 			buildPhases = (
 				E99418771855B1B800A4CA73 /* Sources */,
 				E99418781855B1B800A4CA73 /* Frameworks */,
@@ -190,9 +190,9 @@
 			dependencies = (
 				E99418811855B1B800A4CA73 /* PBXTargetDependency */,
 			);
-			name = "delegate&NotificationTestTests";
+			name = delegateNotificationTestTests;
 			productName = delegateTestTests;
-			productReference = E994187B1855B1B800A4CA73 /* delegate&NotificationTestTests.xctest */;
+			productReference = E994187B1855B1B800A4CA73 /* delegateNotificationTestTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -214,7 +214,7 @@
 					};
 				};
 			};
-			buildConfigurationList = E99418551855B1B800A4CA73 /* Build configuration list for PBXProject "delegate&NotificationTest" */;
+			buildConfigurationList = E99418551855B1B800A4CA73 /* Build configuration list for PBXProject "delegateNotificationTest" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -227,8 +227,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E99418591855B1B800A4CA73 /* delegate&NotificationTest */,
-				E994187A1855B1B800A4CA73 /* delegate&NotificationTestTests */,
+				E99418591855B1B800A4CA73 /* delegateNotificationTest */,
+				E994187A1855B1B800A4CA73 /* delegateNotificationTestTests */,
 			);
 		};
 /* End PBXProject section */
@@ -279,7 +279,7 @@
 /* Begin PBXTargetDependency section */
 		E99418811855B1B800A4CA73 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = E99418591855B1B800A4CA73 /* delegate&NotificationTest */;
+			target = E99418591855B1B800A4CA73 /* delegateNotificationTest */;
 			targetProxy = E99418801855B1B800A4CA73 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -393,10 +393,10 @@
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = 56GUGWMSJF;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "delegateTest/delegate&NotificationTest-Prefix.pch";
-				INFOPLIST_FILE = "delegateTest/delegate&NotificationTest-Info.plist";
+				GCC_PREFIX_HEADER = "delegateTest/delegateNotificationTest-Prefix.pch";
+				INFOPLIST_FILE = "delegateTest/delegateNotificationTest-Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.schneider-electric.MyNovaBuddy";
-				PRODUCT_NAME = "delegate&NotificationTest";
+				PRODUCT_NAME = delegateNotificationTest;
 				PROVISIONING_PROFILE = "48e85a7e-f1ae-43b7-8736-b5f5e639e449";
 				PROVISIONING_PROFILE_SPECIFIER = WildcardInHouse;
 				WRAPPER_EXTENSION = app;
@@ -412,10 +412,10 @@
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = 56GUGWMSJF;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "delegateTest/delegate&NotificationTest-Prefix.pch";
-				INFOPLIST_FILE = "delegateTest/delegate&NotificationTest-Info.plist";
+				GCC_PREFIX_HEADER = "delegateTest/delegateNotificationTest-Prefix.pch";
+				INFOPLIST_FILE = "delegateTest/delegateNotificationTest-Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.schneider-electric.MyNovaBuddy";
-				PRODUCT_NAME = "delegate&NotificationTest";
+				PRODUCT_NAME = delegateNotificationTest;
 				PROVISIONING_PROFILE = "48e85a7e-f1ae-43b7-8736-b5f5e639e449";
 				PROVISIONING_PROFILE_SPECIFIER = WildcardInHouse;
 				WRAPPER_EXTENSION = app;
@@ -438,8 +438,8 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "delegateTestTests/delegate&NotificationTestTests-Info.plist";
-				PRODUCT_NAME = "delegate&NotificationTestTests";
+				INFOPLIST_FILE = "delegateTestTests/delegateNotificationTestTests-Info.plist";
+				PRODUCT_NAME = delegateNotificationTestTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -457,8 +457,8 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "delegateTest/delegateTest-Prefix.pch";
-				INFOPLIST_FILE = "delegateTestTests/delegate&NotificationTestTests-Info.plist";
-				PRODUCT_NAME = "delegate&NotificationTestTests";
+				INFOPLIST_FILE = "delegateTestTests/delegateNotificationTestTests-Info.plist";
+				PRODUCT_NAME = delegateNotificationTestTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -467,7 +467,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E99418551855B1B800A4CA73 /* Build configuration list for PBXProject "delegate&NotificationTest" */ = {
+		E99418551855B1B800A4CA73 /* Build configuration list for PBXProject "delegateNotificationTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E994188A1855B1B800A4CA73 /* Debug */,
@@ -476,7 +476,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E994188C1855B1B800A4CA73 /* Build configuration list for PBXNativeTarget "delegate&NotificationTest" */ = {
+		E994188C1855B1B800A4CA73 /* Build configuration list for PBXNativeTarget "delegateNotificationTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E994188D1855B1B800A4CA73 /* Debug */,
@@ -485,7 +485,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E994188F1855B1B800A4CA73 /* Build configuration list for PBXNativeTarget "delegate&NotificationTestTests" */ = {
+		E994188F1855B1B800A4CA73 /* Build configuration list for PBXNativeTarget "delegateNotificationTestTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E99418901855B1B800A4CA73 /* Debug */,
